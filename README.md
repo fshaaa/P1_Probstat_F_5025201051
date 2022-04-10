@@ -157,4 +157,4 @@ http://rfunction.com/archives/62
 
 https://rpubs.com/mpfoley73/458721
 
-https://rpubs.com/mpfoley73/458721
+https://bookdown.org/gabriel_butler/ECON41Labs/tutorial-5-the-poisson-distribution.html
