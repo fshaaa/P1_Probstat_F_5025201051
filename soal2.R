@@ -1,7 +1,7 @@
 #soal2
 
 #a
-pbinom(4, 20, 0.2)
+dbinom(4, 20, 0.2)
 
 #b
 x <- rbinom(4, 20, 0.2)
