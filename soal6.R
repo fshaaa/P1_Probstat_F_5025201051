@@ -10,7 +10,7 @@ plot(z_score, type = 'l', col='red')
 
 #b
 hist(data, 
-     main = "5025201051_Muhammad Fath Mushaffa Azhar_Probstat_E_DNhistogram",
+     main = "5025201051_Muhammad Fath Mushaffa Azhar_Probstat_F_DNhistogram",
      breaks = 50)
 
 #c
